@@ -1,0 +1,1 @@
+{"uuid":"f285c844-952e-4b42-95af-99bc6df10060","name":"com.MJTest.APITesting.Tests.GETPerson","children":["f133b7aa-9595-4f5f-88a4-eb17de7f9cea"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1672777352085,"stop":1672777352928}],"afters":[],"start":1672777352021,"stop":1672777386360}

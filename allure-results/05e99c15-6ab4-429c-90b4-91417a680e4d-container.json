@@ -1,0 +1,1 @@
+{"uuid":"05e99c15-6ab4-429c-90b4-91417a680e4d","name":"com.MJTest.APITesting.Tests.DELETEPerson","children":["17f03fcc-dcf8-4251-8c82-ea50ecac45e7"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1673031835142,"stop":1673031835838}],"afters":[],"start":1673031835092,"stop":1673031838134}
